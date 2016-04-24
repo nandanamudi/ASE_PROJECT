@@ -2,7 +2,7 @@
     pageEncoding="ISO-8859-1"%>
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <%@ page import="org.aseproject.model.Voter" %>
-<%@ page import="java.io.OutputStream"%>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
