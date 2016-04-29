@@ -110,7 +110,7 @@ div#bodycontainer {
     width: 900px;
     height: 900px;
     margin: 2px auto;
-    background: #E8EAF6;
+    background: #fff2cc;
     padding: 5px;
     display: block;
 }
@@ -138,7 +138,7 @@ div#navigation {
     width: 900px;
     height: 42px;
     margin: 2px auto;
-    background: #5C6BC0;
+    background: #9933ff;
     color: white;
     display: block;
     padding: 5px;
@@ -148,16 +148,34 @@ div#navigation {
     margin-top: 15px;
     color: #FFFFFF;
     font-size: 60px;
+    font-family: Harlow Solid Italic;
 }
 
-div#header {
+#tooplate_wrapper { 
+	margin: 0 auto; 
+	width: 1000px; 
+	padding: 0 10px;  
+}
+
+#tooplate_sidebar {
+	float: right;
+	width: 400px;
+	border: 1px solid #000;
+	background: #081e30
+	
+	
+}
+
+#header {
     width: 100%;
-    height: 90px;
+  
     margin: 2px;
     text-align: center;
-    background: #3F51B5;
+    background: url(images/votingheader.png) top center no-repeat;
     display: block;
+    
 }
+
 
 .clear{
 	clear: both;
@@ -228,10 +246,17 @@ ul a {
 }   
 
 #bodycontent {
-	 width:100%;
+	float: left;
+	 width:410px;
     padding:30px;
     margin:10px;
+    height: 350px;
 } 
+
+#matter {
+	align: justify;
+	
+}
 
 .booth{
 	float:right;
