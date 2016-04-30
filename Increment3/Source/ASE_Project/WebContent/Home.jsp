@@ -46,11 +46,29 @@
 
 			<div id="bodycontainer">
 				<div id="bodycontent">
-					<span>Make your vote count and elect your Leader.</span>
+					<span><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Being a citizen of the world's biggest democracy it is not only our right but a responsibility to elect the right set of people
+to administer the functioning of the country. Only those who perform their duty towards the nation have the right to raise 
+their voices against the system. It is our duty to vote for our representatives. Casting vote is the most effective medium of
+communicating our grievances about the system. In recent years, corruption, violence and malpractices have grown to
+a great extent in all spheres of life; politics has not remained untouched either. But then the people we choose to run the
+government are from among us.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In recent years, with growing political corruption, people are being driven away from voting as they term all politicians 
+the same. People neglect their responsibility which shows their social mind set. People fail to understand that to run the
+country they need to elect, relatively good candidate to run the country. 
+<br><br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voting is power and that power is in our hands. Therefore, we should use this power freely and wisely.</p> </span>
 				</div>
+				<div id="tooplate_sidebar">
+				<div id="bodycontent">
+					<span></span>
+				</div>
+			</div>	
 			</div>
-
+			
+			
 		</div>
-
+</div>
 	</body>
 </html>
